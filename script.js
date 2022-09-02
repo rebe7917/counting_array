@@ -2,8 +2,8 @@
 
 
 
-const arr = [];
-let counter = 0;
+const arr = []; // array
+let counter = 0; // counter
 init();
 
 function init(){
